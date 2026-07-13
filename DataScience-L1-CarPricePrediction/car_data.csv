@@ -1,0 +1,25 @@
+﻿Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+Maruti Swift,2015,250000,300000,60000,Petrol,Dealer,Manual,1
+Hyundai i20,2018,420000,480000,35000,Petrol,Individual,Manual,1
+Toyota Innova,2012,650000,750000,120000,Diesel,Dealer,Manual,2
+Honda City,2017,480000,520000,55000,Petrol,Individual,Automatic,1
+Ford Ecosport,2016,390000,450000,80000,Diesel,Dealer,Manual,1
+Maruti Alto,2014,180000,220000,90000,Petrol,Individual,Manual,1
+Tata Nexon,2020,700000,800000,28000,Diesel,Dealer,Manual,1
+Renault Kwid,2019,220000,260000,32000,Petrol,Individual,Manual,1
+BMW X1,2017,1500000,1700000,45000,Diesel,Dealer,Automatic,1
+Mercedes A Class,2018,1400000,1600000,38000,Diesel,Dealer,Automatic,1
+Mahindra Scorpio,2013,550000,620000,110000,Diesel,Individual,Manual,2
+Volkswagen Polo,2015,320000,360000,70000,Petrol,Dealer,Manual,1
+Skoda Rapid,2016,360000,420000,65000,Diesel,Individual,Automatic,1
+Nissan Micra,2014,210000,250000,95000,Petrol,Dealer,Manual,1
+Maruti Dzire,2019,410000,470000,30000,Diesel,Individual,Manual,1
+Hyundai Creta,2018,760000,850000,40000,Diesel,Dealer,Manual,1
+Toyota Fortuner,2017,1600000,1800000,60000,Diesel,Dealer,Automatic,1
+Audi A4,2016,1250000,1400000,52000,Diesel,Dealer,Automatic,1
+Honda Amaze,2017,330000,380000,72000,Petrol,Individual,Manual,1
+Kia Seltos,2021,980000,1100000,15000,Petrol,Dealer,Manual,1
+Tata Tiago,2020,360000,410000,18000,Petrol,Individual,Manual,1
+Chevrolet Beat,2015,240000,280000,86000,Petrol,Dealer,Manual,1
+Maruti Baleno,2018,440000,500000,43000,Petrol,Individual,Automatic,1
+Jeep Compass,2018,1050000,1180000,41000,Diesel,Dealer,Automatic,1

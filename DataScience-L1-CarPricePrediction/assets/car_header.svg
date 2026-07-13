@@ -1,0 +1,18 @@
+<svg width="800" height="480" viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="480" rx="36" fill="#0f172a"/>
+  <circle cx="650" cy="120" r="70" fill="#38bdf8" opacity="0.22"/>
+  <circle cx="160" cy="380" r="100" fill="#fb923c" opacity="0.18"/>
+  <rect x="120" y="180" width="470" height="180" rx="32" fill="#1e293b"/>
+  <rect x="150" y="208" width="230" height="110" rx="22" fill="#f8fafc"/>
+  <rect x="410" y="216" width="140" height="90" rx="18" fill="#94a3b8"/>
+  <rect x="180" y="235" width="90" height="20" rx="10" fill="#cbd5e1"/>
+  <rect x="280" y="235" width="70" height="20" rx="10" fill="#cbd5e1"/>
+  <circle cx="210" cy="330" r="38" fill="#0f172a"/>
+  <circle cx="430" cy="330" r="38" fill="#0f172a"/>
+  <circle cx="210" cy="330" r="18" fill="#f8fafc"/>
+  <circle cx="430" cy="330" r="18" fill="#f8fafc"/>
+  <path d="M112 310L145 250H230L260 310Z" fill="#f59e0b"/>
+  <path d="M530 310L570 260H650L690 310Z" fill="#38bdf8"/>
+  <rect x="520" y="140" width="160" height="52" rx="20" fill="#f8fafc" opacity="0.95"/>
+  <text x="548" y="172" font-family="Segoe UI, Arial" font-size="24" fill="#0f172a">Smart Price</text>
+</svg>
